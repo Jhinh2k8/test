@@ -1,0 +1,6 @@
+{
+  "name": "NovelCraft Studio - Trình Viết Truyện, Roleplay & Modding Plugin",
+  "description": "Ứng dụng sáng tác văn học và nhập vai chuyên sâu với Hội đồng AI, hệ thống plugin kiểu game mod tự ngắt lỗi an toàn, nạp script từ file và quản lý API key.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

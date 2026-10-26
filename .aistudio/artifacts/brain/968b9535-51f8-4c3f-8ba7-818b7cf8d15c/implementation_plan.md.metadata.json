@@ -1,0 +1,6 @@
+{
+  "summary":  "Cập nhật implementation_plan.md với cơ chế Modding Plugin kiểu Game Mod Loader:\n- Giai đoạn 1: Pre-flight Sandbox Test - Chạy kiểm thử sơ bộ trước khi nạp mod, nếu lỗi thì từ chối nạp và báo lỗi ngay.\n- Giai đoạn 2: Runtime Hot-Kick Guardian - Đang chạy mà bỗng nhiên phát sinh lỗi thì lập tức 'kick' plugin ra ngoài tự động, thông báo lý do và ghi nhận stack trace để sửa code mà không làm sập ứng dụng.",
+  "updatedAt":  "2026-10-26T13:26:08.772505170Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

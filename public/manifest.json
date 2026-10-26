@@ -1,0 +1,50 @@
+{
+  "id": "/",
+  "name": "NovelCraft Studio - Trình Viết Truyện, Roleplay & Modding Plugin",
+  "short_name": "NovelCraft",
+  "description": "Ứng dụng sáng tác văn học và nhập vai chuyên sâu với Hội đồng AI, hệ thống plugin kiểu game mod tự ngắt lỗi an toàn, nạp script từ file và quản lý API key.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "orientation": "any",
+  "lang": "vi",
+  "dir": "ltr",
+  "categories": ["books", "entertainment", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Viết Chương Mới",
+      "short_name": "Viết Mới",
+      "description": "Bắt đầu soạn thảo chương truyện mới",
+      "url": "/",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
